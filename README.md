@@ -1,4 +1,4 @@
-## Velvet Music (Database Systems Final Project)
+## Velvet Music Database
 
 > [!IMPORTANT]
 > **This is an ongoing personal project which I am still working on post-submission.**
